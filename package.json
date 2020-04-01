@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/KSXGitHub/analog-clock#readme",
   "dependencies": {
-    "next": "^4.2.3",
+    "next": "^9.3.2",
     "react": "^16.2.0",
     "react-analog-clock": "^2.0.0",
     "react-dom": "^16.2.0",
